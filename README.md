@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lovish</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">Machine Learning and Deep Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovish-dak&label=Profile%20views&color=0e75b6&style=flat" alt="lovish-dak" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🎓 Currently pursuing **Bachelor's degree in IT at ABV-IIITM Gwalior**
 
-- 🌱 I’m currently learning **Web Development & Data Structures**
+- 🌱 I’m currently learning **Deep Learning & Data Science**
 
 - 📫 How to reach me **lovishdakofficial@gmail.com**
 
