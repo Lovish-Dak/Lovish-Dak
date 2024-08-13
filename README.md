@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Deep Learning & Data Science**
 
-- 📫 How to reach me **lovishdakofficial@gmail.com**
+- 📫 How to reach me **lovish.dak12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
